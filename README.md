@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://instagram.com/devtoolls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devtoolls" height="30" width="40" /></a>
 <a href="https://discord.gg/7jbEnfPTdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7jbEnfPTdy" height="30" width="40" /></a>
+  <a href="https://twitch.tv/devtoolls" target="blank"><img align="center" src="https://img.icons8.com/fluent/452/twitch.png" alt="7jbEnfPTdy" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens & Outros (incluindo motores gráficos):</h3>
