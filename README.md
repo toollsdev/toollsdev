@@ -5,7 +5,10 @@
 
 - ⚡ Estou programando atualmente no [Pro5M](http://pro5m-bot.com/)
 
-- 👨‍💻 Estou programando também, atualmente no [Valíria RP](http://valiriagta.com/)
+- 👨‍💻 Estou programando, atualmente no [Cidade ZAP RP](https://discord.gg/kGWeSY2dxF/)
+
+
+- 👨‍💻 Estou programando, atualmente no [Valíria RP](http://valiriagta.com/)
 
 <h3 align="left">Me encontre em:</h3>
 <p align="left">
