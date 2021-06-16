@@ -1,11 +1,12 @@
-<h1 align="center">Olá! Eu sou Adrian Leonardo.</h1>
+<h1 align="center" style="color:red;">Olá! Eu sou Adrian Leonardo.</h1>
 <h3 align="center">Mais conhecido como Toolls, um desenvolvedor FullStack do interior de Maceió, Alagoas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toollsdev&label=Profile%20views&color=0e75b6&style=flat" alt="toollsdev" /> </p>
+<img src="https://i.imgur.com/kMSz7P5.png" alt="Olá, ser humaninho!" height="140px" />
 
 - ⚡ Estou programando atualmente no [Pro5M](http://pro5m-bot.com/)
 
-- 👑 Estou programando, atualmente no [Cidade ZAP RP](https://discord.gg/kGWeSY2dxF/)
+- 👑 Estou programando, atualmente no [Cidade ZAP Roleplay](https://discord.gg/kGWeSY2dxF/)
 
 - 👨‍💻 Estou programando, atualmente no [Valíria RP](http://valiriagta.com/)
 
