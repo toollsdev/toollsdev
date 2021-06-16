@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toollsdev&label=Profile%20views&color=0e75b6&style=flat" alt="toollsdev" /> </p>
 <img src="https://i.imgur.com/kMSz7P5.png" alt="Olá, ser humaninho!" height="140px" />
 
-- ⚡ Estou programando atualmente no [Pro5M](http://pro5m-bot.com/)
+- 🤖 Estou programando atualmente no [Pro5M](http://pro5m-bot.com/)
 
-- 👑 Estou programando, atualmente no [Cidade ZAP Roleplay](https://discord.gg/kGWeSY2dxF/)
+- 🏙️ Estou programando, atualmente no [Cidade ZAP Roleplay](https://discord.gg/kGWeSY2dxF/)
 
-- 👨‍💻 Estou programando, atualmente no [Valíria RP](http://valiriagta.com/)
+- 🏙️ Estou programando, atualmente no [Valíria RP](http://valiriagta.com/)
 
 <h3 align="left">Me encontre em:</h3>
 <p align="left">
