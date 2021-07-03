@@ -6,7 +6,7 @@
 
 - 🤖 Estou programando atualmente no [Pro5M](http://pro5m-bot.com/)
 
-- 🏙️ Estou programando, atualmente no [Cidade ZAP Roleplay](https://discord.gg/kGWeSY2dxF/)
+- 🏙️ Estou programando, atualmente no [NewFast RP](https://discord.gg/kGWeSY2dxF/)
 
 - 🏙️ Estou programando, atualmente no [Valíria RP](http://valiriagta.com/)
 
