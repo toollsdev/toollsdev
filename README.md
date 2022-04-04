@@ -8,7 +8,6 @@ Sou um grande fã de Astronomia (principalmente por planetários), Saxofone e Cl
 
 Sou um verdadeiro nerd quando o assunto é Hardware.
 ## Job's & Studies
-🏙️👩‍💻 Trabalho atualmente no Valíria RP - Freelancer Desenvolvedor...
 
 🤖👩‍💻 Trabalho atualmente no Pro5M - Sócio e Desenvolvedor...
 
