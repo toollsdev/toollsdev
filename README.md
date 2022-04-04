@@ -13,8 +13,6 @@ Sou um verdadeiro nerd quando o assunto é Hardware.
 
 🏙️👩‍💻 Trabalho atualmente no NewFast RP - Sócio e Desenvolvedor...
 
-🏙️👩‍💻 Trabalho atualmente no Zona Sul - Freelancer Desenvolvedor...
-
 🧠 Estou estudando na 3ª Série (último ano).
 ## 🛠 Habilidades
 Aqui é algumas das minhas habilidades. Sejam elas por linguagens, motores, bancos de dados e marcações.
