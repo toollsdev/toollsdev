@@ -9,9 +9,16 @@ Sou um grande fã de Astronomia (principalmente por planetários), Saxofone e Cl
 Sou um verdadeiro nerd quando o assunto é Hardware.
 ## Job's & Studies
 
-🤖👩‍💻 Trabalho atualmente no Pro5M - Sócio e Desenvolvedor...
+🤖👩‍💻 Trabalho atualmente no Pro5M - Sócio e Desenvolvedor.
 
-🏙️👩‍💻 Trabalho atualmente no NewFast RP - Sócio e Desenvolvedor...
+🏙️👩‍💻 Trabalho atualmente no NewFast RP - Sócio e Desenvolvedor.
+
+🏙️👩‍💻 Trabalho atualmente no Legacies RP - Desenvolvedor.
+
+🏙️👩‍💻 Trabalho atualmente no World Brasil RP - Desenvolvedor.
+
+🏙️👩‍💻 Trabalho atualmente no Satan Group - Volantis e Valíria: Desenvolvedor.
+
 
 🧠 Estou estudando na 3ª Série (último ano).
 ## 🛠 Habilidades
