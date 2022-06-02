@@ -13,10 +13,6 @@ Sou um verdadeiro nerd quando o assunto é Hardware.
 
 🏙️👩‍💻 Trabalho atualmente no NewFast RP - Sócio e Desenvolvedor.
 
-🏙️👩‍💻 Trabalho atualmente no Legacies RP - Desenvolvedor.
-
-🏙️👩‍💻 Trabalho atualmente no World Brasil RP - Desenvolvedor.
-
 🏙️👩‍💻 Trabalho atualmente no Satan Group - Volantis e Valíria: Desenvolvedor.
 
 
