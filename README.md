@@ -18,7 +18,7 @@ Sou um verdadeiro nerd quando o assunto é Hardware.
 ## 🛠 Habilidades
 Aqui é algumas das minhas habilidades. Sejam elas por linguagens, motores, bancos de dados e marcações.
 ### Linguagens: 
-Java, C, C++, C#, CSS, Docker, LUA, JavaScript, PHP.
+Java, C, C++, C#, CSS, Docker, LUA, JavaScript, PHP, Swift.
 ### Frameworks ou Livrarias:
 Bootstrap, Electron.js, Express.js.
 ### Ferramentas:
@@ -27,8 +27,8 @@ Docker
 Unreal Engine, Unity.
 ### Bancos de Dados:
 MySQL, SQLite, MongoDB, Firebase.
-### Línguas:
-Inglês (avançado), Espanhol (iniciante), Português Brasileiro (fluente predominante).
+### Línguas Estrangeiras:
+Inglês (avançado), Espanhol (amador).
 ### Habilidades Extras:
 Saxofone, Clarinete, Violão, especialização em Hardware & Software.
 ## FAQ
@@ -36,7 +36,6 @@ Saxofone, Clarinete, Violão, especialização em Hardware & Software.
 #### Quero te contatar, como faço?
 
 Discord: Toolls#6303.
-Whatsapp: (82) 98188-4154
 
 #### Você cobra pelos serviços?
 
