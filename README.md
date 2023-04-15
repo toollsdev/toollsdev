@@ -3,9 +3,6 @@
 Mais conhecido como Toolls, um desenvolvedor FullStack do interior de Maceió, Alagoas.
 Trabalho desde dos meus 10 anos de idade como freelancer.
 
-
-Sou um grande fã de Astronomia (principalmente por planetários), Saxofone e Clarinete.
-
 Sou um verdadeiro nerd quando o assunto é Hardware.
 ## Job's & Studies
 
